@@ -1,0 +1,12 @@
+{
+  "name": "strawberry-bot",
+  "version": "1.0.0",
+  "description": "Bot Minecraft untuk CRISPY SMP S2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.15.1"
+  }
+}
