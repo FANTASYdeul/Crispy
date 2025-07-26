@@ -5,7 +5,7 @@ function delay(ms) {
 }
 
 const bot = mineflayer.createBot({
-  host: 'monyxmc.net',
+  host: 'play.crispymc.net',
   port: 25565,
   username: 'StrawberryAlt',
   auth: 'offline',
